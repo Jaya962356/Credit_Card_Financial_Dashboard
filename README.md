@@ -33,3 +33,9 @@ Save the model and validate data relationships.
 Use Power BI's interactive dashboard features to design and display your data insights.
 
 Include visualizations such as bar charts, line graphs, and tables to represent key metrics.
+![Example Image](credit_card_transaction_report_page.jpg)
+![Example Image](credit_card_customer_report_page.jpg)
+
+
+
+
